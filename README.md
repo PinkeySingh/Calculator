@@ -21,8 +21,6 @@ Open in NetBeans & Run
 Open NetBeans IDE.
 Click File > Open Project and select the cloned folder.
 Run Main.java to launch the calculator.
-Screenshots (Optional)
-(Include an image of your calculator UI here if possible)
 
 Contributing
 Contributions are welcome! Feel free to submit a pull request.
